@@ -1,0 +1,3 @@
+interface InterfaceA {
+    fun funA(){}
+}
